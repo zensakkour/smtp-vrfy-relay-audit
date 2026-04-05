@@ -1,4 +1,4 @@
-# smtp-vrfy-relay-audit
+# Smtp-Vrfy-Relay-Audit
 
 Named after the exact SMTP controls it validates: `VRFY` exposure and relay/spoofing behavior.
 
